@@ -2,5 +2,5 @@ homepage: "https://code-cube.io/"
 documentation: "https://docs.code-cube.io/"
 versions:
 
-  - sha: 1f78e32c9419f9ca19da635ff53cc493d485e0b0
+  - sha: ccde64a7fbf5457b95e2972768c50f7b539db950
     changeNotes: Initial release.
